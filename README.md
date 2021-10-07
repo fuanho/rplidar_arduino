@@ -1,7 +1,5 @@
 # rplidar_arduino_library
 
-==========================
-
 ###### tags: `Projects`
 
 Base on RoboPeak RPLIDAR driver. Add a small Python program for envrionment drawing.
