@@ -1,4 +1,9 @@
-rplidar_arduino
-===============
+# rplidar_arduino_library
 
-RoboPeak RPLIDAR driver for Arduino and Arduino-compatible devices
+==========================
+
+###### tags: `Projects`
+
+Base on RoboPeak RPLIDAR driver. Add a small Python program for envrionment drawing.
+
+![Python program](https://i.imgur.com/ES7mrYc.jpg)
